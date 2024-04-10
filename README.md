@@ -1,2 +1,2 @@
 # vishal-demo
-This is demo reoository
+This is demo repository
